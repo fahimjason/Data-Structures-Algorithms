@@ -13,7 +13,7 @@
 **Two separate collections: O(a \* b)**<br/>
 
 ![interview-big-o](/src/img/big-o.png)
-[See more](https://www.bigocheatsheet.com/)
+To see more graphical presentation[click here](https://www.bigocheatsheet.com/)
 
 ### What Can Cause Time in a Function?
 
