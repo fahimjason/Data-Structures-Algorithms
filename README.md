@@ -27,7 +27,8 @@ Outside Function call (**function()**)<br/>
 
 -   Different inputs should have different variables: **O(a + b)**
 -   A and B arrays nested would be: **O(a \* b)**<br/>
-    \+ for steps in order<br/> \* for nested steps
+
+\+ for steps in order<br/> \* for nested steps
 
 **Rule 4:** Drop Non-dominant terms
 
