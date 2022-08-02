@@ -12,7 +12,7 @@
 **Iterating through half a collection is still O(n)**<br/>
 **Two separate collections: O(a \* b)**<br/>
 
-![interview-big-o](/src/img/interview-big-o.png)
+![interview-big-o](/src/img/big-o.png)
 
 ### What Can Cause Time in a Function?
 
